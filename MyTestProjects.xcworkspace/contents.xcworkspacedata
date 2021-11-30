@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:scrollViewDemo/scrollViewDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:tableViewDemo/tableViewDemo.xcodeproj">
    </FileRef>
 </Workspace>
