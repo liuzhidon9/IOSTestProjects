@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UICollectionViewDemo/UICollectionViewDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UITextFieldDemo/UITextFieldDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIButtonDemo/UIButtonDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:/Users/donview/Desktop/MyTestProjects/UIView/UIViewDemo.xcodeproj">
    </FileRef>
    <FileRef
