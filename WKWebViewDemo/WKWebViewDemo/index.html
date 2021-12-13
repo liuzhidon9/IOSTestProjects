@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <h1>Hello World</h1>
+    <img src="./magical-tree.jpg" alt="">
+    <h1 id="/about">about</h1>
+    <!-- <script src="https://cdn.staticfile.org/eruda/2.4.0/eruda.js"></script>
+    <script>
+        eruda.init({
+            useShadowDom: true,
+            autoScale: true,
+            defaults: {
+                displaySize: 100,
+                transparency: 1,
+                theme: 'Monokai Pro'
+            }
+        })
+    </script> -->
+   
+    <script src="https://cdn.staticfile.org/vConsole/3.9.0/vconsole.min.js"></script>
+    <script>
+       const vConsole = new VConsole();
+    </script>
+    <script>
+        window.webkit.messageHandlers.log.postMessage("hello");
+    </script>
+</body>
+
+</html>

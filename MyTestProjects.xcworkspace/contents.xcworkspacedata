@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:WKWebViewDemo/WKWebViewDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UITabBarControllerDemo/UITabBarControllerDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:UINavigationControllerDemo/UINavigationControllerDemo.xcodeproj">
    </FileRef>
    <FileRef

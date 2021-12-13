@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  UITabBarControllerDemo
+//
+//  Created by donview on 2021/12/8.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) URL_VERSION='$(URL_VERSION)'
+URL_VERSION = @"v1"
+
