@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:NSOperationDeom/NSOperationDeom.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:&#x591a;&#x7ebf;&#x7a0b;&#x7ec3;&#x4e60;Demo/&#x591a;&#x7ebf;&#x7a0b;&#x7ec3;&#x4e60;Demo.xcodeproj">
    </FileRef>
    <FileRef
